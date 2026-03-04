@@ -1,5 +1,5 @@
 # ZT-TrustFed: 3-Client Federated Intrusion Detection (CIC23 + CIC17 + BOT)
-
+[![DOI](https://zenodo.org/badge/1171576535.svg)](https://doi.org/10.5281/zenodo.18862595)
 This repository provides a complete experimental pipeline for **federated intrusion detection** across heterogeneous security datasets using **Zero-Trust inspired trust aggregation**, **FedProx** for non-IID robustness, and **FedBN-style** client-specific BatchNorm statistics.
 
 ✅ Robust CSV loading (local folder)  
